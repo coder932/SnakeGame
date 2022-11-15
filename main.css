@@ -5,3 +5,6 @@ body{
 h1, h2, h6, p{
     color: aliceblue;
 }
+h3{
+        color: rgb(0, 185, 0);
+}
